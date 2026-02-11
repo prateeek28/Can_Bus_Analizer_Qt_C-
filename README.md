@@ -37,7 +37,6 @@ https://github.com/user-attachments/assets/9ac01aa1-44e0-43b2-896f-546095073cbb
 3. Run the application
 4. Click Start to begin CAN simulation
 5. Use Pause / Resume as needed
-6. Check `can_log.csv` for logged data
 ---
 
 ## Author
